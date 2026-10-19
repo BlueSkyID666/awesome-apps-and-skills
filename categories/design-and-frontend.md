@@ -19,6 +19,10 @@ _Design inspiration, design and prototyping tools, motion, and frontend skills._
   Collaborative whiteboard for hand-drawn style diagrams.<br>
   🏷 `diagrams` `whiteboard`<br>
   💰 free
+- **[Open Design](https://open-design.ai/)** <img align="absmiddle" alt="app" src="https://img.shields.io/badge/app-1f883d?style=flat-square"><br>
+  Open-source, local-first design workspace where you and your coding agents build prototypes, sites, slides and dashboards.<br>
+  🏷 `ai-design` `prototyping` `open-source` `local-first`<br>
+  💰 freemium
 - **[Penpot](https://penpot.app/)** <img align="absmiddle" alt="web-tool" src="https://img.shields.io/badge/web--tool-4f46e5?style=flat-square"><br>
   Open-source design and prototyping platform for teams, with real-time collaboration. Can be self-hosted.<br>
   🏷 `design` `prototyping` `collaboration` `open-source`<br>
@@ -40,6 +44,9 @@ _Design inspiration, design and prototyping tools, motion, and frontend skills._
 
 ## Frontend Skills
 
+- **[awesome-design-skills](https://github.com/bergside/awesome-design-skills)** <img align="absmiddle" alt="skill" src="https://img.shields.io/badge/skill-d97757?style=flat-square"><br>
+  Registry of 67 design-system skill files for AI agents, each with agent instructions and a human-readable design guide.<br>
+  🏷 `design-system` `agent-skills` `design-md` `ui`
 - **[Taste Skill](https://www.tasteskill.dev/)** <img align="absmiddle" alt="skill" src="https://img.shields.io/badge/skill-d97757?style=flat-square"><br>
   Open-source skill files that stop AI coding agents from generating generic frontends, installed with one command.<br>
   🏷 `frontend` `design` `agent-skills` `anti-slop`
