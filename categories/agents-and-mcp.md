@@ -4,6 +4,9 @@ _MCP servers, agent frameworks and plugins, plus agent memory, local model runti
 
 ## Agents & Templates
 
+- **[agency-agents](https://github.com/msitarzewski/agency-agents)** <img align="absmiddle" alt="skill" src="https://img.shields.io/badge/skill-d97757?style=flat-square"><br>
+  Collection of specialist AI agent definitions, from engineering to marketing, that you install into coding agents like Claude Code and Cursor.<br>
+  🏷 `ai-agents` `agent-roster` `prompts` `claude-code`
 - **[awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps)** <img align="absmiddle" alt="starter" src="https://img.shields.io/badge/starter-7d5ba6?style=flat-square"><br>
   Collection of 100+ open-source AI agents, agent skills and RAG apps you can clone and run.<br>
   🏷 `ai-agents` `rag` `llm-apps` `templates`
@@ -48,6 +51,9 @@ _MCP servers, agent frameworks and plugins, plus agent memory, local model runti
 
 ## Agent Tools & Data
 
+- **[camofox-browser](https://github.com/jo-inc/camofox-browser)** <img align="absmiddle" alt="app" src="https://img.shields.io/badge/app-1f883d?style=flat-square"><br>
+  Headless browser server for AI agents, built on Camoufox with fingerprint spoofing as a Puppeteer and Playwright replacement.<br>
+  🏷 `headless-browser` `browser-automation` `ai-agents` `scraping`
 - **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** <img align="absmiddle" alt="mcp-server" src="https://img.shields.io/badge/mcp--server-0969da?style=flat-square"><br>
   Live data layer for data-center site selection; DCPI scores grid power across 300+ markets daily (94 MCP tools).<br>
   🏷 `mcp` `data-centers` `energy` `site-selection`<br>
@@ -58,3 +64,9 @@ _MCP servers, agent frameworks and plugins, plus agent memory, local model runti
   Web data API that lets AI agents search, scrape, map and crawl the web. The core is open source.<br>
   🏷 `web-scraping` `ai-agents` `api` `crawler`<br>
   💰 freemium
+
+- **[PlaceCall](https://github.com/voygr-tech/placecall)** <img align="absmiddle" alt="mcp-server" src="https://img.shields.io/badge/mcp--server-0969da?style=flat-square"><br>
+  Lets an AI agent phone US businesses to book, ask questions or get quotes, and returns the call outcome, transcript and recording.<br>
+  🏷 `mcp` `phone-calls` `voice-agents` `ai-agents`<br>
+  💰 paid<br>
+  🔗 [mcp](https://api.voygr.tech/mcp)
